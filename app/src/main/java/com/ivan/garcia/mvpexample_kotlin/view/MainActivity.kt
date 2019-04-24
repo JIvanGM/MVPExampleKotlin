@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity(), interfacesClass.View {
             safeData()
         }
 
-
+        //creacion de un objeto
         val nombre = "Jose";
         val email = "mail@mail.com";
         var usuario1: User = User(nombre, email)
