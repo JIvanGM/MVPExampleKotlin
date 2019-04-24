@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVPExample-Kotlin</string>
+
+    <string name="your_name">Tu nombre</string>
+    <string name="your_mail">Tu Correo</string>
+    <string name="guadarBtn">Guardar</string>
+
+    <string name="your_nameO">Tu nombre O</string>
+    <string name="your_mailO">Tu Correo O</string>
+</resources>
